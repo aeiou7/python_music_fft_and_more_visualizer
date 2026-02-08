@@ -22,4 +22,8 @@ bootdev personal project, where i make a pyqt project where i play a audio file 
         }
     
     ```
+
+ ```mermaid
+   info 
+    ```
 ## requirements
