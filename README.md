@@ -12,18 +12,17 @@ bootdev personal project, where i make a pyqt project where i play a audio file 
     - [ ] continous wavetable visualizer
     - [ ] more?
 ## design
-    ```mermaid
+```mermaid
     C4Context
         python music visualizer system context diagram
         enerprise_boundary(s0, "system boundry") {
             person(user, "the application user")
             system(pyfft, "the python application to show FFT")
-
         }
-    
-    ```
+
+```
 
  ```mermaid
    info 
-    ```
+```
 ## requirements
